@@ -2,7 +2,7 @@
 
 ```python
 {
-  👽'whole_name': 'Elizaveta Ezhergina',
+  👽'full_name': 'Elizaveta Ezhergina',
   #️⃣'age': 26,
   🎏'skills_and_languages': 'Python, DL in NLP, transformers, spaCy, torch, keras',
   💒'current_employment': 'https://github.com/konfuzio-ai/konfuzio-sdk'
