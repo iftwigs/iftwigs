@@ -1,4 +1,13 @@
-### Hi there 👋
+### hey! my name is liza ezhergina and i'm a software developer and a NLP engineer based in azerbaijan 🇦🇿
+
+```python
+{
+  👽'whole_name': 'Elizaveta Ezhergina',
+  #️⃣'age': 26,
+  🎏'skills_and_languages': 'Python, DL in NLP, transformers, spaCy, torch, keras',
+  💒'current_employment': 'https://github.com/konfuzio-ai/konfuzio-sdk'
+}
+```
 
 <!--
 **iftwigs/iftwigs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
