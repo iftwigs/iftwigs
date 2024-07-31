@@ -4,7 +4,7 @@
 {
   👽'full_name': 'Elizaveta Ezhergina',
   #️⃣'age': 28,
-  🎏'skills_and_languages': 'Python, DL in NLP, transformers, spaCy, torch, keras',
+  🎏'skills_and_languages': 'Python, NLP & LLMs, torch, FastAPI, CI/CD',
   💒'current_employment': 'https://github.com/konfuzio-ai/konfuzio-sdk'
 }
 ```
