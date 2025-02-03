@@ -1,4 +1,4 @@
-### hey! my name is liza ezhergina and i'm a software developer and a AI engineer based in azerbaijan 🇦🇿
+### hey! my name is liza ezhergina and i'm a software developer and an AI engineer based in azerbaijan 🇦🇿
 
 ```python
 {
