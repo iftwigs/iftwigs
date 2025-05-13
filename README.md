@@ -1,11 +1,10 @@
-### hey! my name is liza ezhergina and i'm a software developer and an AI engineer based in azerbaijan 🇦🇿
+### hey! my name is liza ezhergina and i'm an ML engineer based in portugal 🇵🇹
 
 ```python
 {
   👽'full_name': 'Elizaveta Ezhergina',
   #️⃣'age': 28,
-  🎏'skills_and_languages': 'Python, NLP & LLMs, torch, FastAPI, CI/CD',
-  💒'current_employment': 'https://github.com/konfuzio-ai'
+  🎏'skills_and_languages': 'Python, ML, NLP & LLMs, torch, FastAPI, CI/CD',
 }
 ```
 
